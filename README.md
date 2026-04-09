@@ -1,16 +1,16 @@
-# 🧪 Tiki Manual Testing Project
+# Tiki Manual Testing Project
 
-## 📌 Overview
+## Overview
 
 This project demonstrates manual testing activities performed on the Tiki e-commerce website.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is based on personal testing knowledge and experience.
 No official requirement documents or specifications were provided.
 Expected results are defined based on common e-commerce behavior and user experience assumptions, so they may not fully reflect the actual system requirements.
 
-## 🎯 Scope
+## Scope
 
 The following features were selected for testing:
 
@@ -20,12 +20,12 @@ The following features were selected for testing:
 
 Due to the absence of official requirements, the testing scope focuses on core user-facing features to ensure depth and quality of testing.
 
-## 🧪 Testing Approach
+## Testing Approach
 
 * Manual Testing
 * Exploratory Testing
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 tiki-manual-testing/
@@ -38,7 +38,7 @@ tiki-manual-testing/
 ├── 5.TestReport/
 ```
 
-## 🛠 Tools
+## Tools
 
 * Excel / Google Sheets
 * Jira for bug tracking
